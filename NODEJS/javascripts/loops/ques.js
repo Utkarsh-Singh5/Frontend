@@ -8,7 +8,7 @@
 //     }
 // }
 
-//2.
+//2. game question
 
 let game_No =25;
 
